@@ -1,0 +1,39 @@
+ 
+ b{
+   color:white;
+ }
+table {
+    border-spacing: 500px;
+  }
+table, th, td {
+    border: 10px solid gray;
+    
+  }
+.sidebar{
+    background-color: black;
+    border-spacing:100px;
+    height: 300px;
+    width:150px;
+    border:20px solid gray;
+  }
+   
+ .search{
+    background-color: black;
+    border-radius: 20px; 
+    height:1px;
+    border:10px solid grey;
+ }
+ .center{
+    background-color: black;
+    height:45px;
+ }
+ .footer{
+    background-color:black;
+    height:70px;
+ }
+ b{
+    color:darkgrey
+ }
+ body{
+    background-color:black;
+ }
